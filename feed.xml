@@ -4,7 +4,7 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title></title>
-    <link>https://mchoi07.github.io/</link>
+    <link>https://ainomad.github.io/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
@@ -13,8 +13,8 @@
     
     <item>
       <title>first-post</title>
-      <link>https://mchoi07.github.io/2019/11/06/first-post/</link>
-      <guid>https://mchoi07.github.io/2019/11/06/first-post/</guid>
+      <link>https://ainomad.github.io/2019/11/06/first-post/</link>
+      <guid>https://ainomad.github.io/2019/11/06/first-post/</guid>
       <pubDate>Thu, 07 Nov 2019 02:36:56 GMT</pubDate>
       <description>
       
@@ -24,13 +24,13 @@
       
       <content:encoded><![CDATA[<p>Test</p><a id="more"></a><p>[하나님의 자녀]</p><p>왜 우리가 무언가를 하기위해 어떠한 일을 위해 이땅에 보내졌다고만 생각하게 되었는지..</p><p>아무것도 하지 않아도 아무것도 이루지 못해도 나는 하나님의 자녀. 실수하고 넘어져도 하나님의 자녀. </p><p>하나님의 자녀로서 정체성을 찾으라고 이야기한다. 무엇을 위하여 보내졌는지를 생각하라고 한다. 그런데 우리들중 과연 누가 어떤 구체적인 목적을 위해 부모님으로 부터 태어났을까? 과연 어떤 부모님이 어떤 일을 이루기 위해 우리를 낳고 기르셨을까? </p><p>그렇다기 보다는 두가지의 경우가 있다고 생각한다. 자녀로써 아버지의 일에 시선이 가는경우 또 다른경우는 이버지의 일과 상관없이 나의 길을 가는 경우. 그 어떤 선택도 정답은 아니다. 우리의 선택일뿐. </p><p>창조의 목적? 나는 잘 모르겠다. 내가 하나님의 자녀됨을 진정 안다면. 나는 그 안에서 자유함을 누리는 삶을 워한다. </p>]]></content:encoded>
       
-      <comments>https://mchoi07.github.io/2019/11/06/first-post/#disqus_thread</comments>
+      <comments>https://ainomad.github.io/2019/11/06/first-post/#disqus_thread</comments>
     </item>
     
     <item>
       <title>Simulation 02 - Random variable</title>
-      <link>https://mchoi07.github.io/2019/07/19/random-variable/</link>
-      <guid>https://mchoi07.github.io/2019/07/19/random-variable/</guid>
+      <link>https://ainomad.github.io/2019/07/19/random-variable/</link>
+      <guid>https://ainomad.github.io/2019/07/19/random-variable/</guid>
       <pubDate>Fri, 19 Jul 2019 04:00:00 GMT</pubDate>
       <description>
       
@@ -40,13 +40,13 @@
       
       <content:encoded><![CDATA[<p>Random variable can be generated from a good random number generator. If real variables has moved the reality, we could design a future with a good random variables.</p><a id="more"></a><h2 id="Simulation-02-Random-variable"><a href="#Simulation-02-Random-variable" class="headerlink" title="Simulation 02 - Random variable"></a>Simulation 02 - Random variable</h2><blockquote><p>Author: Minkyu Choi<br>Last updated: 07/19/2019</p></blockquote><p><strong>References</strong><br><a href="https://newonlinecourses.science.psu.edu/stat414/node/104/" target="_blank" rel="external nofollow noopener noreferrer">Link-1</a></p>]]></content:encoded>
       
-      <comments>https://mchoi07.github.io/2019/07/19/random-variable/#disqus_thread</comments>
+      <comments>https://ainomad.github.io/2019/07/19/random-variable/#disqus_thread</comments>
     </item>
     
     <item>
       <title>Simulation 01 - Random Number</title>
-      <link>https://mchoi07.github.io/2019/07/18/random-number/</link>
-      <guid>https://mchoi07.github.io/2019/07/18/random-number/</guid>
+      <link>https://ainomad.github.io/2019/07/18/random-number/</link>
+      <guid>https://ainomad.github.io/2019/07/18/random-number/</guid>
       <pubDate>Thu, 18 Jul 2019 13:27:50 GMT</pubDate>
       <description>
       
@@ -56,7 +56,7 @@
       
       <content:encoded><![CDATA[<p>A simulation is not real but it can represent the real. It’s because a simulation is an imitation of real situation - it can’t be exact but it can be approximate.</p><a id="more"></a><h2 id="Simulation-01-Random-Number"><a href="#Simulation-01-Random-Number" class="headerlink" title="Simulation 01 - Random Number"></a>Simulation 01 - Random Number</h2><blockquote><p>Author: Minkyu Choi<br>Last updated: 07/19/2019</p></blockquote><p>Greeting this is a test post for the future references. </p><figure class="highlight python hljs"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="hljs-keyword">if</span> x == <span class="hljs-string">'test'</span>:</span><br><span class="line">  print(<span class="hljs-string">"hello world"</span>)</span><br></pre></td></tr></table></figure><p>$$<br>\begin{aligned}<br> E[\bar{X}]=E[\sum􏰒X_i/n] =E[X_i]=μ<br>\end{aligned}<br>$$</p><p>*<em>The equation of test script is *</em> $y = x + 1$</p>]]></content:encoded>
       
-      <comments>https://mchoi07.github.io/2019/07/18/random-number/#disqus_thread</comments>
+      <comments>https://ainomad.github.io/2019/07/18/random-number/#disqus_thread</comments>
     </item>
     
   </channel>
